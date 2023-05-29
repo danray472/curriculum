@@ -48,7 +48,7 @@ Follow the steps below to get started. Once you complete Step 1, be sure to use 
 
 </div>
 
-### Additional Resources
+### Additional Resources (optional)
 
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
